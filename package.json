@@ -1,0 +1,23 @@
+{
+  "name": "HiveMind",
+  "version": "0.0.0",
+  "description": "HiveMind is an asset manager for research groups",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JQiu/HiveMind.git"
+  },
+  "keywords": [
+    "collaboration",
+    "research"
+  ],
+  "author": "Jimmy Qiu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JQiu/HiveMind/issues"
+  },
+  "homepage": "https://github.com/JQiu/HiveMind"
+}
